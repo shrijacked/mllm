@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/*
+!outputs/.gitkeep
+*.pdf
+!REPORT.pdf
+*.png
